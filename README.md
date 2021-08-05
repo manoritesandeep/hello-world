@@ -1,2 +1,2 @@
 # hello-world
-Initalization_github
+Initialization_github
